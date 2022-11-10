@@ -6,11 +6,11 @@
 
 ## huawei
 
-[https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/huawei/settings.xml](https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/aliyun/settings.xml)
+[https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/huawei/settings.xml](https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/huawei/settings.xml)
 
 ## tencent
 
-[https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/tencent/settings.xml](https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/aliyun/settings.xml)
+[https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/tencent/settings.xml](https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/tencent/settings.xml)
 
 ## usage
 
