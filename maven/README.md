@@ -12,6 +12,10 @@
 
 [https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/tencent/settings.xml](https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/tencent/settings.xml)
 
+## nju
+
+[https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/nju/settings.xml](https://cdn.jsdelivr.net/gh/dyrnq/x@main/maven/nju/settings.xml)
+
 ## usage
 
 override default maven settings.xml
