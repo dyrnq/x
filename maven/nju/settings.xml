@@ -20,7 +20,7 @@
   <mirrors>
     <mirror>
         <id>nju_mirror</id>
-        <mirrorOf>*</mirrorOf>
+        <mirrorOf>central</mirrorOf>
         <url>https://repo.nju.edu.cn/repository/maven-public/</url>
     </mirror>
   </mirrors>
